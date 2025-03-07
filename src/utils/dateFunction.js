@@ -3,5 +3,5 @@ export function formatReleaseDate(date) {
 		year: "numeric",
 		month: "long",
 		day: "numeric",
-	});
+	})
 } 
